@@ -52,13 +52,13 @@ The Iris dataset used in this project is sourced from **Kaggle**. The dataset co
 
 ## Repository Structure
 + *iris.csv*: Directory to store the Iris dataset and any additional data files.
-+ _iris-flower-classification.ipynb_: Jupyter notebooks documenting the step-by-step process of the project.
-+ _app.py_: Python script for the Streamlit web application.
-+ _requirements.txt_: List of required packages and their versions.
++ _iris.ipynb_: Jupyter notebooks documenting the step-by-step process of the project.
++ _iris.py_: Python script for the Streamlit web application.
+
 + _README.md_: Readme file explaining the project, its steps, and deployment instructions.
 
 ## Live Demo
-Access the web application in your browser at the [URL](https://iris-flower-classification-shrudex.streamlit.app/).
+Access the web application in your browser at the [URL]().
 
 
 ## Conclusion
